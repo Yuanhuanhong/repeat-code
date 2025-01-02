@@ -1,4 +1,4 @@
-# GaitGraph2: Towards a Deeper Understanding of Skeleton-based Gait Recognition
+# 改进的基于骨骼的步态识别
 
 Accepted at: [17th IEEE Computer Society Workshop on Biometrics 2022](https://www.vislab.ucr.edu/Biometrics2022/index.php) (CVPRW'22)
 
